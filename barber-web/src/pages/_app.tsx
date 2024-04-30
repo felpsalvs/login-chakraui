@@ -21,13 +21,13 @@ const colors = {
     100: "#c6c6c6",
   },
   button: {
-    cta: "#fba931",
+    cta: "#3188fb",
     default: "#FFF",
     gray: "#DFDFDF",
     danger: "#FF4040",
   },
   orange: {
-    900: "#fba931",
+    900: "#3171fb",
   },
 };
 
