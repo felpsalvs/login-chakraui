@@ -42,5 +42,3 @@ Para acessar a aplicação eu criei um usuário único para acessar:
  email: teste@teste.com
  senha: teste
 ```
-
-![alt text](recording-2024-04-30-01-44-22.gif)
